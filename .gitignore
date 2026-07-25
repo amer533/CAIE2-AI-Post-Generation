@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+Postgres@2026!.txt
+db.sqlite3
