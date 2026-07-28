@@ -202,15 +202,6 @@ The prompt used to review the assignment implementation is documented in:
 AI_PROMPT_SUMMARIZE_POST_ASSIGNMENT.md
 ```
 
-## Technologies
-
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- OpenAI API
-- python-decouple
-
 ## Author
 
 Amer Ziad Jaradat
