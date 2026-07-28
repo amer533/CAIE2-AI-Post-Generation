@@ -1,39 +1,6 @@
-# Environment variables and secrets
 .env
-.env.*
-!.env.example
-
-# Virtual environments
 .venv/
-venv/
-env/
-
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Django
+*.pyc
 db.sqlite3
-*.sqlite3
 *.log
-staticfiles/
-media/
-
-# Testing and coverage
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Editors
-.vscode/
-.idea/
-
-# Git and temporary files
-*.zip
-*.bak
-*.tmp
-
-# Operating system
-.DS_Store
-Thumbs.db
