@@ -4,4 +4,3 @@ drf-yasg
 python-decouple
 psycopg2-binary
 openai
-python-dotenv
